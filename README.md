@@ -12,7 +12,12 @@ This project uses YoloV5n model.
 
 Run the code step-by-by as mention in [Colab Notebook](https://github.com/RATANSINGH-2002/Blood-Cell-Detection-and-Counting/blob/main/Blood%20Cell%20Detection%20and%20Counting.ipynb).
 
+The result of the model trained are as follows:
+
+
+
 The end results are interfaced by Creating an Streamlit Application. Important Note: It only takes JPG images 
 
 The interfaces looks as follows
+
 ![image](https://github.com/user-attachments/assets/fb85062a-6788-4d05-8cde-0d76320ff466)
