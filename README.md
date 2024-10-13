@@ -10,6 +10,6 @@ Study more about YOLOv5 Model by Clicking [ME](https://github.com/ultralytics/yo
 
 This project uses YoloV5n model.
 
-Run the code step-by-by as mention in Colab Notebook.
+Run the code step-by-by as mention in [Colab Notebook](https://github.com/RATANSINGH-2002/Blood-Cell-Detection-and-Counting/blob/main/Blood%20Cell%20Detection%20and%20Counting.ipynb).
 
 The end results are interfaced by Creating an Streamlit Application.Important Note: It only takes JPG images 
